@@ -1,0 +1,11 @@
+{
+    "sshfs.configs": [
+        {
+            "name": "gpu",
+            "host": "weasley.cs.rit.edu",
+            "username": "hc3725",
+            "privateKeyPath": "/Users/gaurankmaheshwari/Downloads/id_rsa",
+            "putty": true
+        }
+    ]
+}
